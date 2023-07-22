@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manzil Shrestha</h1>
 <h3 align="center">Developer from Nepal</h3>
-<img align = "right" alt = "coding" width="200" src = "https://media0.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47yn5dclk39gkq2juovz8zn9jh605d4v9ncjesbl9r&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align = "right" alt = "coding" width="300" src = "https://media0.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47yn5dclk39gkq2juovz8zn9jh605d4v9ncjesbl9r&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 📫 Mail: **Shresthamanxil37@gmail.com**
 - 🔗 Links: **https://linktr.ee/kangura**
